@@ -1,1 +1,3 @@
 # VehiclesProject
+
+npm run dev
